@@ -18,14 +18,14 @@ title: Helpful notes and thoughts
 description: >- # this means to ignore newlines until "baseurl:"
   We are a group of graduate students learning about all kinds of technology stuff.
   This is a place where we keep a record of what we have learned about.
-baseurl: "blog" # the subpath of your site, e.g. /blog
+# baseurl: "" # the subpath of your site, e.g. /blog
 # url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  PhDSelfHelp
 
 # Build settings
-markdown: kramdown
-theme: jekyll-theme-minimal
+# markdown: kramdown
+theme: minima
 plugins:
   - jekyll-feed
 
