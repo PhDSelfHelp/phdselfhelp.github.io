@@ -4,15 +4,15 @@ title: About
 permalink: /about/
 ---
 
-This is a small group of graduate students in the University of Michigan who are interested in the technology stuff.
-We'll randomly write on the things that we learned during out study.
-The topics can be anything that's related to computer technology, math or their applications.
+This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
-Currently we have three members. They are (alphabetically):
+You can find the source code for Minima at GitHub:
+[jekyll][jekyll-organization] /
+[minima](https://github.com/jekyll/minima)
 
-  [Chengyu Dai](https://github.com/jdaaph)
+You can find the source code for Jekyll at GitHub:
+[jekyll][jekyll-organization] /
+[jekyll](https://github.com/jekyll/jekyll)
 
-  [Jiaxing Wu](https://github.com/jxwulittlebean)
 
-  [Zhen Xu](https://github.com/FXuZ)
-
+[jekyll-organization]: https://github.com/jekyll
